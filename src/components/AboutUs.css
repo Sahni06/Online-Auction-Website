@@ -1,9 +1,7 @@
-.app{
-    margin: 0 200px;
-}
+
 .about-container {
     max-width: 1200px;
-    margin: 0 auto;
+     margin: 0 200px;
     padding: 20px;
 }
 
