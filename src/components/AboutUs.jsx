@@ -6,19 +6,19 @@ export default function AboutUs() {
         {
             name: "Sahni Chaudhary",
             role: "CEO & Founder",
-            image: "/team/john.jpg",
+            image: "/public/women.jpeg",
             description: "With 15 years of experience in online auctions and e-commerce."
         },
         {
             name: "Sarah Johnson",
             role: "Head of Operations",
-            image: "/team/sarah.jpg",
+            image: "/public/man.jpeg",
             description: "Expert in auction management and customer relations."
         },
         {
             name: "Mike Chen",
             role: "Technical Director",
-            image: "/team/mike.jpg",
+            image: "/public/man.jpeg",
             description: "Leading our platform development and innovation."
         }
     ]);
